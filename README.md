@@ -19,7 +19,7 @@ A simple backend API built using Django and Django REST Framework to manage poll
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/polls-api-django.git
+git clone https://github.com/caitlintorres/polls-api-django.git
 cd polls-api-django
 ```
 
